@@ -1,0 +1,15 @@
+body {
+	font-family: arial;
+	font-size: 24px;
+	margin: auto 0;
+	padding: 45px;
+}
+
+section {
+	text-align: center;
+}
+
+.newClass {
+	font-size: 30px;
+	color: yellow;
+}
